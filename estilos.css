@@ -7,7 +7,7 @@
   --luz: rgb(229, 255, 0);
 }
 
-@media screen and (min-width: 414px){
+
 body {
   
   align-items: center;
@@ -19,7 +19,7 @@ body {
   background: linear-gradient(45deg, red, blue, violet);
   
 }
-}
+
 
 h1 {
   color:blue;
