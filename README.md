@@ -1,7 +1,5 @@
 # MEU-DESAFIO-MIDI
 
-# PÁGINA BARBEARIA ALURA
-
 ## Índice
 
 - [Visão Geral](#visão-geral)
