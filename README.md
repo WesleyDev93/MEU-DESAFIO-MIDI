@@ -38,7 +38,7 @@ Utilizando interações e anotações durantes as aulas.
 
 - Marcação HTML5 semântica
 - Propriedades personalizadas de CSS
-- JavaCript
+- JavaSCript
 
 ### O que eu aprendi
 
